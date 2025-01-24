@@ -1,0 +1,7 @@
+streamlit==1.26.0
+torch==2.0.1
+torch-geometric
+transformers==4.33.0
+rdkit-pypi==2023.9.1
+psycopg2-binary==2.9.7
+pandas==2.0.3
